@@ -1,4 +1,4 @@
-`{Hello, word !!!}` Eu sou a Rosane !! 💗
+`{Hello, world !!!}` Eu sou a Rosane !!
 
 - 😎 Iniciante
 - 💻 Estudando programação
@@ -30,5 +30,5 @@
   <a href = "mailto:contatorosanebraun@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rosane-johann-braun-5a359a221" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-   ![Snake animation](https://github.com/RosaneJB/RosaneJB/blob/output/github-contribution-grid-snake.svg)
+ (https://github.com/RosaneJB/RosaneJB/blob/output/github-contribution-grid-snake.svg)
 </div>
