@@ -2,7 +2,7 @@
 
 - 😎 Iniciante
 - 💻 Estudando programação
-- ✔ HTML5, CSS3, Saas, Javascript, React...
+- ✔ HTML5, CSS3, Saas, Javascript, Typescrypt, React, Redux ...
 - 👍 Repositório de estudos
 - 🌼 Pronouns: ela/dela
 
